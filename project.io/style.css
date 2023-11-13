@@ -1,0 +1,112 @@
+.heading{
+    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Roboto Slab', serif;
+    color: rgb(66, 66, 107);
+    font-size: 60px;
+    margin: 0% auto;text-align: center;
+    margin-top: 10%;
+    display: block;
+}
+#header1{  
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 50px;
+}
+.logo{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+#header2{
+    position: fixed;
+    top: 0%;
+    right: 0%;
+    height: 50px;
+}
+.material-symbols-outlined{
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.container1{
+    padding-top: 10px;
+    font-size: 18px;
+    width: 220px;
+    text-align: center;
+    margin:auto;
+}
+.appstore{
+    font-size: 23px;
+    border-radius: 25px;
+    padding: 10px;
+    font: weight 200px;
+    background-color: aliceblue; 
+                 
+}
+#firstbutton{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    color: rgb(2, 2, 18);
+
+    
+}
+#firstbutton:hover{
+    transform: scale(1.1);
+    color: rgb(8, 6, 6);
+}
+.playstore{
+    background-color: rgb(244, 244, 249);
+    font-size: 23px;
+    border-radius: 25px;
+    padding: 10px;
+}
+#secondbutton{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
+#secondbutton:hover{
+    transform: scale(1.1);
+}
+.image1{
+    justify-content: center;
+    display: flex;
+    margin: auto;width: 500px;
+    border-radius: 35px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 7%;
+    height: 25%;
+
+}
+.container2{
+    background-color: rgb(125, 125, 230);
+    height:auto;
+    width: 100%;
+    border-radius: 25px;
+}
+.edit{
+    padding: 25px;
+    background-color: aliceblue;
+    width: 225px;
+    display: block;
+    padding: 25px;  
+}
+.text-change{
+    display: flex;
+    justify-content: center;
+    color: rgb(2, 2, 2);
+    font-family: 'Luckiest Guy', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+.auto-colur{
+    color: blue;
+    border-bottom: 2px solid black;
+}
+.aos{
+    font-family: 'Luckiest Guy', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
